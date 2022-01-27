@@ -1,6 +1,6 @@
-package tests;
+package model;
 
-// Ксласс для объектов с данными полей Документов
+/* -------------------------------- Класс для объектов с данными полей Документов -------------------------------- */
 public class DocumentData {
     private final String lastName;
     private final String firstName;
